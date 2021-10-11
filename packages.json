@@ -2,5 +2,13 @@
     {
         "package": "slimr",
         "url": "https://github.com/rdinnager/slimr"
+    },
+    {
+        "package": "immosaic",
+        "url": "https://github.com/rdinnager/immosaic
+    },
+    {
+        "package": "rbff"
+        "url": "https://github.com/rdinnager/rbff"
     }
 ]
