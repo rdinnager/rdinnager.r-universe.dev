@@ -4,11 +4,15 @@
         "url": "https://github.com/rdinnager/slimr"
     },
     {
-        "package": "immosaic",
-        "url": "https://github.com/rdinnager/immosaic"
+        "package": "impac",
+        "url": "https://github.com/rdinnager/impac"
     },
     {
         "package": "rbff",
         "url": "https://github.com/rdinnager/rbff"
+    },
+    {
+        "package": "trampoline",
+        "url": "https://github.com/rdinnager/trampoline"
     }
 ]
