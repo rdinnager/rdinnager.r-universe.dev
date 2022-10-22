@@ -18,5 +18,9 @@
     {
         "package": "phyf",
         "url": "https://github.com/rdinnager/phyf"
+    },
+    {
+        "package": "fofpack",
+        "url": "https://github.com/rdinnager/fofpack"
     }
 ]
