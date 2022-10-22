@@ -22,5 +22,9 @@
     {
         "package": "fofpack",
         "url": "https://github.com/rdinnager/fofpack"
+    },
+    {
+        "package": "fibre",
+        "url": "https://github.com/rdinnager/fibre"
     }
 ]
