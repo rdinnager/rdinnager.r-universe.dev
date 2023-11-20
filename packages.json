@@ -28,6 +28,10 @@
         "url": "https://github.com/rdinnager/tidysdm"
     },
     {
+        "package": "biocman",
+        "url": "https://github.com/rdinnager/biocman"
+    },
+    {
         "package": "fibre",
         "url": "https://github.com/rdinnager/fibre"
     }
