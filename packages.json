@@ -1,7 +1,8 @@
 [
     {
         "package": "slimr",
-        "url": "https://github.com/rdinnager/slimr"
+        "url": "https://github.com/rdinnager/slimr",
+        "branch": "0.4.0"
     },
     {
         "package": "impac",
